@@ -4,14 +4,14 @@
 
 La instalación del software de Microsoft .Net Core es relativamente facil y se enlista en los siguientes pasos.
 
-1ero.- Entrar a la página de [Descarga de .NET](dotnet.microsoft.com/download), seleccionar el software .NET Core y dar click en la versión Build Apps que dice "Download .NET Core SDK" aunque también puedes descargar la versión que se requiera.
+1ero.- Entrar a la página de [Descarga de .NET](https://dotnet.microsoft.com/download), seleccionar el software .NET Core y dar click en la versión Build Apps que dice "Download .NET Core SDK" aunque también puedes descargar la versión que se requiera.
 
 2do.- Después de descargar el Instalador, iniciar e instalar el software, no se espera que sea complicado así que solo hay que aceptar la licencia y dar a "Next" algunas veces mas para intalarlo finalmente.
 
 
 ## 2.- Instalación y configuración de Visual Studio Code para C#.
 
-1ero.- Entrar al enlace de [Descarga de Visual Studio Code](code.visualstudio.com)
+1ero.- Entrar al enlace de [Descarga de Visual Studio Code](https://code.visualstudio.com)
 
 2do.- Descargar el instalador según la versión que se requiera.
 
