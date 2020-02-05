@@ -11,7 +11,7 @@ La instalación del software de Microsoft .Net Core es relativamente facil y se 
 
 ## 2.- Instalación y configuración de Visual Studio Code para C#.
 
-1ero.- Entrar al enlace de [Descarga de Visual Studio Code](https://code.visualstudio.com)
+1ero.- Entrar al enlace de [Descarga de Visual Studio Code](https://code.visualstudio.com).
 
 2do.- Descargar el instalador según la versión que se requiera.
 
@@ -23,11 +23,9 @@ La instalación del software de Microsoft .Net Core es relativamente facil y se 
 
 
 ## 3.- Instalación de git. conectado a tu cuenta de GitHub y VSC.
-1ero.- Antes que nada necesitas crear una cuenta en GitHub, es muy sencillo, solo necesitas un correo válido.
+1ero.- Antes que nada necesitas crear una cuenta en GitHub, es muy sencillo, solo necesitas un correo válido. Para crear la cuenta puedes entrar al siguiente [enlace](https://github.com/join).
 
-2do.- Descargar e Instalar [GitHub Desktop](https://desktop.github.com/)
-
-3ero.- Descargar e Instalar [Visual Studio Code](https://code.visualstudio.com/download)
+2do.- Descargar e Instalar [GitHub Desktop](https://desktop.github.com/).
 
 4to.- Iniciar GitHub Desktop y configurar con su cuenta y datos personales.
 
