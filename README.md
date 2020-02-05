@@ -3,9 +3,10 @@
 
 # Trabajos de Francisco Manuel Figueroa Parra
 
-# No. de Control: 19211639 - Segundo Semestre
+### No. de Control: 19211639 - Segundo Semestre
 
-# Semestre 2020-1 - Ingeniería en Sistemas Computacionales
+### Semestre 2020-1 - Ingeniería en Sistemas Computacionales
+
 
 
 ## Enlaces a los trabajos:
