@@ -11,6 +11,6 @@
 
 [1er Trabajo "Instrucciones Ambiente de Desarrollo en C#"](./SETUP/README.md)
 
-[2do Trabajo "Programa Básico de Peliculas y Lista de éstas"](./ListaPeliculas/Program.cs)
+[2do Trabajo "Programa Básico de Peliculas y Lista de éstas"](./Peliculas/Program.cs)
 
 
