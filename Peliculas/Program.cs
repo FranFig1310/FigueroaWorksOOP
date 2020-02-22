@@ -1,6 +1,7 @@
 ﻿using System;
 
-
+//IMPORTANTE: El cambio de nombre de la carpeta ha "limpiado" el historial del archivo,
+//para acceder a este historial se tendría que buscar en el historial global del repositorio.
 public class Peliculas 
 {
     private string Titulo;
