@@ -9,6 +9,8 @@
 
 ## Enlaces a los trabajos:
 
-[Primer Trabajo "Instrucciones Ambiente de Desarrollo en C#"](./SETUP/README.md)
+[1er Trabajo "Instrucciones Ambiente de Desarrollo en C#"](./SETUP/README.md)
+
+[2do Trabajo "Programa Básico de Peliculas y Lista de éstas"](./ListaPeliculas/Program.cs)
 
 
