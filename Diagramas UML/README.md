@@ -1,19 +1,19 @@
 
-# Ejercicio UML1
+# Diagrama UML1
 
 Agrega la cardinalidad o multiplicidad para las asociaciones del siguiente diagrama de clases, justifica tus decisiones:
 
 ![Imagen1](https://github.com/FranFig1310/FigueroaWorksOOP/blob/master/Diagramas%20UML/Diagrama%20UML1.png)
 
 
-# Ejercicio UML2
+# Diagrama UML2
 
 Completa los tipos de asociación (Agregación y Composición) y multiplicidad que hay entre las clases siguientes y explica porque es de ese tipo.
 
 ![Imagen2](https://github.com/FranFig1310/FigueroaWorksOOP/blob/master/Diagramas%20UML/Diagrama%20UML2.png)
 
 
-# Ejercicio UML3
+# Diagrama UML3
 
 Nos piden hacer una aplicación para llevar una bitácora de los libros
 que estamos leyendo y aquellos que ya hemos terminado de leer. 
