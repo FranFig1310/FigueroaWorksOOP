@@ -6,9 +6,14 @@ namespace ListaPeliculas
     class ListPeliculas
     {
         private string Nombre;
-        public ListPeliculas(string Nombre) => this.Nombre = Nombre;
+        private short AñoEst;
+        public ListPeliculas(string Nombre, short AñoEst)
+        { 
+            this.Nombre = Nombre;
+            this.AñoEst = AñoEst;
+        }
     
-    public void Imprimir() => Console.WriteLine(Nombre);
+    public void Imprimir() => Console.WriteLine(Nombre + ", " + AñoEst);
     }
     class Program
     {
@@ -16,11 +21,11 @@ namespace ListaPeliculas
         {
             List<ListPeliculas> Peliculas = new List<ListPeliculas>();
             
-            Peliculas.Add(new ListPeliculas("El Irlandés"));
-            Peliculas.Add(new ListPeliculas("Gladiador"));
-            Peliculas.Add(new ListPeliculas("El Padrino"));
-            Peliculas.Add(new ListPeliculas("Pelotón"));
-            Peliculas.Add(new ListPeliculas("Rocky"));
+            Peliculas.Add(new ListPeliculas("El Irlandés", 2019));
+            Peliculas.Add(new ListPeliculas("Gladiador", 2000));
+            Peliculas.Add(new ListPeliculas("El Padrino", 1972));
+            Peliculas.Add(new ListPeliculas("Pelotón", 1986));
+            Peliculas.Add(new ListPeliculas("Rocky", 1975));
 
             foreach (ListPeliculas a in Peliculas)
             {
