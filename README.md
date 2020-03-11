@@ -17,6 +17,6 @@
 
 [3er Trabajo "Lista de Actores"](./ListaActores/Program.cs)
 
-[4to Trabajo "Diagramas UML"](./DiagramasUML/Readme.md)
+[4to Trabajo "Diagramas UML"](./Diagramas UML/Readme.md)
 
 
