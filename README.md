@@ -19,4 +19,8 @@
 
 [4to Trabajo "Diagramas UML"](./Diagramas UML/Readme.md)
 
+[Trabajo "Duración"](./HMSDuracion/Program.cs)
+
+[Trabajo "Domino"](./Domino/Program.cs)
+
 
